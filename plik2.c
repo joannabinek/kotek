@@ -31,3 +31,5 @@ int main()
   delete [] S;
   return 0;
 }
+
+ZMIANA
